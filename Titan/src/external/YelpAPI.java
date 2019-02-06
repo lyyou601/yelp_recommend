@@ -25,7 +25,7 @@ public class YelpAPI {
 	private static final int SEARCH_LIMIT = 20;
 
 	private static final String TOKEN_TYPE = "Bearer";
-	private static final String API_KEY = "Z19CYeJUG9RxJ0WoLw3H5ccrq8TPsrFtnt0-6tz-KiW-kbxb4i8F4VTWQCtvAuGKnLMUoYOYfVSV0FKB14cwIyDGq4NlOBuE8NRixxlQyfIrAEV3X66bCEyOy-GuW3Yx";
+	private static final String API_KEY = "*******";
 	
 	public static void main(String[] args) {
 		YelpAPI tmApi = new YelpAPI();
